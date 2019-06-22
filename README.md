@@ -7,4 +7,6 @@ I played around with blending effect, and kind of made a one way through glass. 
 Credits:
 The credits of stb image loading library goes to Sean Barrett.
 Glad loader is generated at website https://glad.dav1d.de/, and the credits goes to Dav1dde.
+The first skybox images "bloody-marvelous" were created by 'The Mighty Pete', he has a website at http://www.petesoasis.com.
+The second skybox images were provided by Joey de Vries.
 Many thanks to Joey de Vries and his amazing tutorial of opengl. His website is at https://learnopengl.com
